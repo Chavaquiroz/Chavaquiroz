@@ -1,14 +1,34 @@
 <div align="center">
 
 [comment]: <> (View Counter)
-<br>
+<br><table width="100%" cellspacing="0" cellpadding="0" border="0" style="border-collapse: collapse;">
 
-
+  <tr>
+    <td width="43%" rowspan="2" style="padding:0; margin:0; height:100%;">
+      <img src="./assets/etvideogif.gif"
+           width="100%"
+           alt="PROMETEO"
+           style="display:block;">
+    </td>
+    <td width="18%" style="padding:0; margin:0;">
+      <img src="./assets/githubvideo4.gif"
+           width="100%"
+           alt="PROMETEO"
+           style="display:block; object-fit:cover;">
+    </td>
+  </tr>
+  <tr>
+    <td width="18%" style="padding:0; margin:0;">
+      <img src="./assets/prometeo.gif"
+           width="100%"
+           alt="PROMETEO"
+           style="display:block;">
+    </td>
+  </tr>
+</table>
 
 <div>
-  <div align=center>
-      <img height="200" alt="Screenshot_2022-12-22_at_23 08 11-removebg-preview" src="https://media.licdn.com/dms/image/v2/D5603AQGpcT5qz-svqw/profile-displayphoto-scale_200_200/B56Z8kLlFXIoAc-/0/1783018444180?e=1792627200&v=beta&t=Oon7jZjdT2zPpmrQ00odSdQTZ2EeQYzJ9x8m9EDimqQ" alt="Salvador Photo">
-  </div>
+  
   <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=35&duration=2500&pause=200&color=13C582FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Chava;aka+Salvador+Quiroz;Welcome+to+my+profile!;Full+Stack+Developer;Physics+Engineer;Opportunity+Funds+Scholar;Game+Developer;Leader+and+Problem+Solver;Contact+me+:)" alt="Typing SVG" /></a>
   </div>
@@ -30,10 +50,6 @@
 
 [//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-
 <div align="left">
 
 ```java
@@ -43,6 +59,7 @@
  * @param city            León, Guanajuato, Mexico.
  * @param languages       Spanish, English.
  * @param jobTitle        Software Developer and Physics Engineer.
+ * @param experience      3+ years
  * @param specialization  Optimization, machine learning & software development.
  * @param interests       Operations Research, optimization, machine learning & quantum computing.
  * @param hobbies         Chess, videogame programming & teaching.
@@ -56,27 +73,26 @@
  */
 ```
 </div>
-</td>
 
-<td width="40%" align="center" valign="middle">
-<img src="./assets/prometeo.gif" width="75%" alt="PROMETEO">
-</td>
-</tr> </table>
+
+
 
 
 
 <h3 align="left" style="color:#18A34A;">📗 Tools</h3>
 
-<div align="center">
+<div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:stretch; gap:12px;">
 
   <!-- Programming Languages -->
   <div style="display:inline-block; vertical-align:top; text-align:center; border:1px solid #D1D5DB; border-radius:8px; padding:12px 16px; margin:6px;">
     <div style="color:#18A34A; font-weight:bold; margin-bottom:12px;">Programming Languages</div>
     <div>
-      <img width="30" src="https://www.svgrepo.com/show/373533/csharp2.svg" />
+      <img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1280px-Logo_C_sharp.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" />
       <img width="30" src="https://img.icons8.com/ios_filled/512/40C057/python.png" />
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+      <img width="30" src="https://cdn.iconscout.com/icon/free/png-256/free-java-logo-icon-svg-download-png-2945017.png?f=webp" />
+      <img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/960px-Unofficial_JavaScript_logo_2.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" />
+      <img width="30" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" />
+      <img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/1280px-Fortran_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
     </div>
   </div>
 
@@ -84,10 +100,10 @@
   <div style="display:inline-block; vertical-align:top; text-align:center; border:1px solid #D1D5DB; border-radius:8px; padding:12px 16px; margin:6px;">
     <div style="color:#18A34A; font-weight:bold; margin-bottom:12px;">Back-end</div>
     <div>
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+      <img width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe-uw8L63lJiHv5fLvPik7MHcTiKihci0sVGjsNUVsxg&s=10" />
+      <img width="30" src="https://www.svgrepo.com/show/373554/django.svg" />
+      <img width="30" src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" />
+      <img width="30" src=https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/500px-NestJS.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" />
     </div>
   </div>
 
@@ -95,9 +111,9 @@
   <div style="display:inline-block; vertical-align:top; text-align:center; border:1px solid #D1D5DB; border-radius:8px; padding:12px 16px; margin:6px;">
     <div style="color:#18A34A; font-weight:bold; margin-bottom:12px;">Mobile</div>
     <div>
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
+      <img width="30" src="https://www.svgrepo.com/show/374112/swift.svg" />
       <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
     </div>
   </div>
 
@@ -107,9 +123,11 @@
     <div>
       <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
       <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+      <img width="30" src="https://www.svgrepo.com/show/354521/vitejs.svg" />
       <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
+      <img width="30" src="https://www.svgrepo.com/show/452130/vue.svg" />
+      <img width="30" src="https://www.svgrepo.com/show/374024/quasar.svg" />
+      <img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
     </div>
   </div>
 
@@ -117,10 +135,9 @@
   <div style="display:inline-block; vertical-align:top; text-align:center; border:1px solid #D1D5DB; border-radius:8px; padding:12px 16px; margin:6px;">
     <div style="color:#18A34A; font-weight:bold; margin-bottom:12px;">Database</div>
     <div>
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+      <img width="30" src="https://iconlogovector.com/uploads/images/2024/10/lg-671e36a3d6819-MySQL.webp" />
       <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+      <img width="30" src="https://www.svgrepo.com/show/303670/firebase-1-logo.svg" />
     </div>
   </div>
 
@@ -132,6 +149,8 @@
       <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
       <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
       <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+      <img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1280px-Keras_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
+      <img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/960px-R_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
     </div>
   </div>
 
@@ -139,9 +158,10 @@
   <div style="display:inline-block; vertical-align:top; text-align:center; border:1px solid #D1D5DB; border-radius:8px; padding:12px 16px; margin:6px;">
     <div style="color:#18A34A; font-weight:bold; margin-bottom:12px;">System, Networking &amp; Deployment</div>
     <div>
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
+      <img width="30" src="https://static.freepnglogo.com/images/all_img/1726309795amazon-web-services-logo-png.png" />
       <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
       <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+      <img width="30" src="https://www.svgrepo.com/show/353564/cloudflare.svg" />
     </div>
   </div>
 
@@ -149,8 +169,9 @@
   <div style="display:inline-block; vertical-align:top; text-align:center; border:1px solid #D1D5DB; border-radius:8px; padding:12px 16px; margin:6px;">
     <div style="color:#18A34A; font-weight:bold; margin-bottom:12px;">Terminal Scripts</div>
     <div>
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+      <img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/3840px-Bash_Logo_Colored.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" />
       <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+      <img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/1280px-Gnu-nano.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
     </div>
   </div>
 
@@ -159,12 +180,12 @@
     <div style="color:#18A34A; font-weight:bold; margin-bottom:12px;">Tools</div>
     <div>
       <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+      <img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/960px-Visual_Studio_Icon_2019.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" />
       <img width="30" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />
       <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rubymine/rubymine-original.svg" />
       <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+      <img width="30" src="https://developer.apple.com/assets/elements/icons/xcode-s/xcode-s-96x96_2x.png" />
+      <img width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" />
     </div>
   </div>
 
@@ -173,17 +194,88 @@
     <div style="color:#18A34A; font-weight:bold; margin-bottom:12px;">Game Development</div>
     <div>
       <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+      <img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/3840px-Godot_icon.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
+      <img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/1280px-Logo_Aseprite.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
+      <img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/960px-Adobe_Photoshop_CC_icon.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
+      <img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/3840px-Adobe_Illustrator_CC_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" />
+      <img width="30" src="https://lmms.io/img/logo_lg.png" />
     </div>
   </div>
 
 </div>
 
-<h3 align="left" style="color:#18A34A;">🚃 Recent Projects </h3>
+<h3 align="left" style="color:#18A34A;">🚃 Recent Projects</h3>
+
+<table width="80%" cellspacing="12" cellpadding="0" border="0">
+  <tr>
+    <td width="33%" valign="top"
+        style="border:1px solid #D1D5DB; border-radius:8px; padding:10px;">
+      <img src="./assets/project4.png"
+           width="100%"
+           alt="Project 5"
+           style="display:block;">
+      <h4>Wigo (In Progress...)</h4>
+      <p>
+        Software Developer for Wigo, a ride-hailing platform for iOS and Android that connects users with drivers and provides on-demand transportation services.
+      </p>
+    </td>
+    <td width="33%" valign="top"
+        style="border:1px solid #D1D5DB; border-radius:8px; padding:10px;">
+      <img src="./assets/project1.png"
+           width="100%"
+           alt="Project 4"
+           style="display:block;">
+      <h4>Horarios Guapos / USchedU <br> (In Progress...)</h4>
+      <p>
+        A university scheduling application that uses optimization techniques to generate efficient class schedules based on availability and scheduling constraints.
+      </p>
+    </td>
+    <td width="33%" valign="top"
+        style="border:1px solid #D1D5DB; border-radius:8px; padding:10px;">
+      <img src="./assets/project2.png"
+           width="100%"
+           alt="Project 1"
+           style="display:block;">
+      <h4>ET REMAKE (In Progress...)</h4>
+      <p>
+        A remake project focused on recreating and modernizing the original Atari ET  , with a focus on improving gameplay, systems, and overall performance.
+      </p>
+    </td>
+  </tr>
+  <tr>
+  <td width="33%" valign="top"
+        style="border:1px solid #D1D5DB; border-radius:8px; padding:10px;">
+      <img src="./assets/project3.png"
+           width="100%"
+           alt="Project 2"
+           style="display:block;">
+      <h4>PROMETEO</h4>
+      <p>
+        PROMETEO is a self-developed educational space-themed mobile game designed to inspire young people to explore space and STEM.
+      </p>
+    </td>
+    <td width="33%" valign="top"
+        style="border:1px solid #D1D5DB; border-radius:8px; padding:10px;">
+      <img src="./assets/project5.png"
+           width="100%"
+           alt="Project 3"
+           style="display:block;">
+      <h4>Neural Networks for Weather Forecasting</h4>
+      <p>
+        Neural network model for weather forecasting using TensorFlow and historical climatological data from Mexico’s National Meteorological Service (SMN/CONAGUA), with data preprocessing, analysis, and time-series forecasting.
+      </p>
+    </td>
+    <td width="33%" valign="top"
+        style="border:1px solid #D1D5DB; border-radius:8px; padding:10px;">
+      <h4>And more...</h4>
+    </td>
+  </tr>
+</table>
 
 
 <h3 align="left" style="color:#18A34A;">🍃Quote </h3>
+  <div align="left">One of my favourite quotes is from a song by one of my favourite singers: WOS.</div>
   
-  One of my favourite quotes is from a song by one of my favourite singers: WOS.
   <blockquote>
   
     “Time no longer adds or takes away 
@@ -199,7 +291,45 @@
   <strong>WOS in "MORFEO" (2023)</strong>
 
 
+<h3 align="left" style="color:#18A34A;"> 🏕️Organizations & Communities </h3>
 
+<div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:20px;">
+
+  <div style="text-align:center;">
+    <img width="50" src="./assets/algorithmics.png" alt="Algorithmics">
+    <br>
+    <strong>Algorithmics</strong>
+    <br>
+    <small>Programming Instructor</small>
+  </div>
+
+  <div style="text-align:center;">
+    <img width="50" src="./assets/semillas.jpeg" alt="Semillas del Futuro">
+    <br>
+    <strong>Semillas del Futuro</strong>
+    <br>
+    <small>International Student Success Coordinator</small>
+  </div>
+
+  <div style="text-align:center;">
+    <img width="50" src="./assets/afif.jpg" alt="AFIF">
+    <br>
+    <strong>AFIF</strong>
+    <br>
+    <small>General Coordinator</small>
+  </div>
+
+  <div style="text-align:center;">
+    <img width="50" src="./assets/edusa.jpeg" alt="EducationUSA">
+    <br>
+    <strong>EducationUSA</strong>
+    <br>
+    <small>Opportunity Funds Scholar</small>
+  </div>
+
+</div>
+
+<br>
 <div align="Center">
 
 ![](https://komarev.com/ghpvc/?username=Chavaquiroz&label=Thanks+for+visiting!&color=18A34A&style=flat-square)
