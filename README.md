@@ -301,7 +301,8 @@
     </td>
   </tr>
 </table>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Chavaquiroz.Chavaquiroz" alt="Visitor count" />
+<br>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Chavaquiroz.Chavaquiroz&left_text=Thanks%20for%20visiting&left_color=green&right_color=green" alt="Thanks for visiting" />
 <br>
 <div align="center" style="color: #888; font-size: 13px; padding: 20px 0;"> © 2026 Salvador Quiroz Gaytán :) · All rights reserved. 🦖</div>
 </div>
