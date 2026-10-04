@@ -79,7 +79,7 @@
 
 
 
-<h3 align="left" style="color:#18A34A;">📗 Technologies</h3>
+<h3 align="left" style="color:#18A34A;">📗 Tools</h3>
 <table width="100%" cellspacing="10" cellpadding="0" border="0">
 <tr>
 <td width="25%" align="center" valign="top" style="border:1px solid #D1D5DB; border-radius:8px; padding:12px;">
@@ -301,12 +301,9 @@
     </td>
   </tr>
 </table>
-
 <br>
-<div align="Center">
-
-![](https://komarev.com/ghpvc/?username=Chavaquiroz&label=Thanks+for+visiting!&color=18A34A&style=flat-square)
-
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Chavaquiroz&label=Thanks+for+visiting!&color=18A34A&style=flat-square">
 </div>
-
+<br>
 <div align="center" style="color: #888; font-size: 13px; padding: 20px 0;"> © 2026 Salvador Quiroz Gaytán :) · All rights reserved. 🦖</div>
