@@ -79,130 +79,106 @@
 
 
 
-<h3 align="left" style="color:#18A34A;">📗 Tools</h3>
-
-<div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:stretch; gap:12px;">
-
-  <!-- Programming Languages -->
-  <div style="display:inline-block; vertical-align:top; text-align:center; border:1px solid #D1D5DB; border-radius:8px; padding:12px 16px; margin:6px;">
-    <div style="color:#18A34A; font-weight:bold; margin-bottom:12px;">Programming Languages</div>
-    <div>
-      <img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1280px-Logo_C_sharp.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" />
-      <img width="30" src="https://img.icons8.com/ios_filled/512/40C057/python.png" />
-      <img width="30" src="https://cdn.iconscout.com/icon/free/png-256/free-java-logo-icon-svg-download-png-2945017.png?f=webp" />
-      <img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/960px-Unofficial_JavaScript_logo_2.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" />
-      <img width="30" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" />
-      <img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/1280px-Fortran_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
-    </div>
-  </div>
-
-  <!-- Back-end -->
-  <div style="display:inline-block; vertical-align:top; text-align:center; border:1px solid #D1D5DB; border-radius:8px; padding:12px 16px; margin:6px;">
-    <div style="color:#18A34A; font-weight:bold; margin-bottom:12px;">Back-end</div>
-    <div>
-      <img width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe-uw8L63lJiHv5fLvPik7MHcTiKihci0sVGjsNUVsxg&s=10" />
-      <img width="30" src="https://www.svgrepo.com/show/373554/django.svg" />
-      <img width="30" src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" />
-      <img width="30" src=https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/500px-NestJS.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" />
-    </div>
-  </div>
-
-  <!-- Mobile -->
-  <div style="display:inline-block; vertical-align:top; text-align:center; border:1px solid #D1D5DB; border-radius:8px; padding:12px 16px; margin:6px;">
-    <div style="color:#18A34A; font-weight:bold; margin-bottom:12px;">Mobile</div>
-    <div>
-      <img width="30" src="https://www.svgrepo.com/show/374112/swift.svg" />
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
-    </div>
-  </div>
-
-  <!-- Front-end -->
-  <div style="display:inline-block; vertical-align:top; text-align:center; border:1px solid #D1D5DB; border-radius:8px; padding:12px 16px; margin:6px;">
-    <div style="color:#18A34A; font-weight:bold; margin-bottom:12px;">Front-end</div>
-    <div>
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-      <img width="30" src="https://www.svgrepo.com/show/354521/vitejs.svg" />
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-      <img width="30" src="https://www.svgrepo.com/show/452130/vue.svg" />
-      <img width="30" src="https://www.svgrepo.com/show/374024/quasar.svg" />
-      <img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
-    </div>
-  </div>
-
-  <!-- Database -->
-  <div style="display:inline-block; vertical-align:top; text-align:center; border:1px solid #D1D5DB; border-radius:8px; padding:12px 16px; margin:6px;">
-    <div style="color:#18A34A; font-weight:bold; margin-bottom:12px;">Database</div>
-    <div>
-      <img width="30" src="https://iconlogovector.com/uploads/images/2024/10/lg-671e36a3d6819-MySQL.webp" />
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-      <img width="30" src="https://www.svgrepo.com/show/303670/firebase-1-logo.svg" />
-    </div>
-  </div>
-
-  <!-- Data Science & AI -->
-  <div style="display:inline-block; vertical-align:top; text-align:center; border:1px solid #D1D5DB; border-radius:8px; padding:12px 16px; margin:6px;">
-    <div style="color:#18A34A; font-weight:bold; margin-bottom:12px;">Data Science &amp; AI</div>
-    <div>
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-      <img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1280px-Keras_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
-      <img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/960px-R_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
-    </div>
-  </div>
-
-  <!-- System, Networking & Deployment -->
-  <div style="display:inline-block; vertical-align:top; text-align:center; border:1px solid #D1D5DB; border-radius:8px; padding:12px 16px; margin:6px;">
-    <div style="color:#18A34A; font-weight:bold; margin-bottom:12px;">System, Networking &amp; Deployment</div>
-    <div>
-      <img width="30" src="https://static.freepnglogo.com/images/all_img/1726309795amazon-web-services-logo-png.png" />
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-      <img width="30" src="https://www.svgrepo.com/show/353564/cloudflare.svg" />
-    </div>
-  </div>
-
-  <!-- Terminal Scripts -->
-  <div style="display:inline-block; vertical-align:top; text-align:center; border:1px solid #D1D5DB; border-radius:8px; padding:12px 16px; margin:6px;">
-    <div style="color:#18A34A; font-weight:bold; margin-bottom:12px;">Terminal Scripts</div>
-    <div>
-      <img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/3840px-Bash_Logo_Colored.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" />
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-      <img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/1280px-Gnu-nano.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
-    </div>
-  </div>
-
-  <!-- Tools -->
-  <div style="display:inline-block; vertical-align:top; text-align:center; border:1px solid #D1D5DB; border-radius:8px; padding:12px 16px; margin:6px;">
-    <div style="color:#18A34A; font-weight:bold; margin-bottom:12px;">Tools</div>
-    <div>
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-      <img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/960px-Visual_Studio_Icon_2019.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" />
-      <img width="30" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
-      <img width="30" src="https://developer.apple.com/assets/elements/icons/xcode-s/xcode-s-96x96_2x.png" />
-      <img width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" />
-    </div>
-  </div>
-
-  <!-- Game Development -->
-  <div style="display:inline-block; vertical-align:top; text-align:center; border:1px solid #D1D5DB; border-radius:8px; padding:12px 16px; margin:6px;">
-    <div style="color:#18A34A; font-weight:bold; margin-bottom:12px;">Game Development</div>
-    <div>
-      <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
-      <img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/3840px-Godot_icon.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
-      <img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/1280px-Logo_Aseprite.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
-      <img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/960px-Adobe_Photoshop_CC_icon.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
-      <img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/3840px-Adobe_Illustrator_CC_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" />
-      <img width="30" src="https://lmms.io/img/logo_lg.png" />
-    </div>
-  </div>
-
-</div>
+<h3 align="left" style="color:#18A34A;">📗 Technologies</h3>
+<table width="100%" cellspacing="10" cellpadding="0" border="0">
+<tr>
+<td width="25%" align="center" valign="top" style="border:1px solid #D1D5DB; border-radius:8px; padding:12px;">
+<strong style="color:#18A34A;">Programming Languages</strong>
+<br><br>
+<img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1280px-Logo_C_sharp.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" />
+<img width="30" src="https://img.icons8.com/ios_filled/512/40C057/python.png" />
+<img width="30" src="https://cdn.iconscout.com/icon/free/png-256/free-java-logo-icon-svg-download-png-2945017.png?f=webp" />
+<img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/960px-Unofficial_JavaScript_logo_2.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" />
+<img width="30" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" />
+<img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Fortran_logo.svg/1280px-Fortran_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
+</td>
+<td width="25%" align="center" valign="top" style="border:1px solid #D1D5DB; border-radius:8px; padding:12px;">
+<strong style="color:#18A34A;">Back-end</strong>
+<br><br>
+<img width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQe-uw8L63lJiHv5fLvPik7MHcTiKihci0sVGjsNUVsxg&s=10" />
+<img width="30" src="https://www.svgrepo.com/show/373554/django.svg" />
+<img width="30" src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" />
+<img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/500px-NestJS.svg.png" />
+</td>
+<td width="25%" align="center" valign="top" style="border:1px solid #D1D5DB; border-radius:8px; padding:12px;">
+<strong style="color:#18A34A;">Mobile</strong>
+<br><br>
+<img width="30" src="https://www.svgrepo.com/show/374112/swift.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg" />
+</td>
+<td width="25%" align="center" valign="top" style="border:1px solid #D1D5DB; border-radius:8px; padding:12px;">
+<strong style="color:#18A34A;">Front-end</strong>
+<br><br>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+<img width="30" src="https://www.svgrepo.com/show/354521/vitejs.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img width="30" src="https://www.svgrepo.com/show/452130/vue.svg" />
+<img width="30" src="https://www.svgrepo.com/show/374024/quasar.svg" />
+<img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
+</td>
+</tr>
+<tr>
+<td width="25%" align="center" valign="top" style="border:1px solid #D1D5DB; border-radius:8px; padding:12px;">
+<strong style="color:#18A34A;">Database</strong>
+<br><br>
+<img width="30" src="https://iconlogovector.com/uploads/images/2024/10/lg-671e36a3d6819-MySQL.webp" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img width="30" src="https://www.svgrepo.com/show/303670/firebase-1-logo.svg" />
+</td>
+<td width="25%" align="center" valign="top" style="border:1px solid #D1D5DB; border-radius:8px; padding:12px;">
+<strong style="color:#18A34A;">Data Science &amp; AI</strong>
+<br><br>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1280px-Keras_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
+<img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/960px-R_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
+</td>
+<td width="25%" align="center" valign="top" style="border:1px solid #D1D5DB; border-radius:8px; padding:12px;">
+<strong style="color:#18A34A;">System, Networking &amp; Deployment</strong>
+<br><br>
+<img width="30" src="https://static.freepnglogo.com/images/all_img/1726309795amazon-web-services-logo-png.png" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+<img width="30" src="https://www.svgrepo.com/show/353564/cloudflare.svg" />
+</td>
+<td width="25%" align="center" valign="top" style="border:1px solid #D1D5DB; border-radius:8px; padding:12px;">
+<strong style="color:#18A34A;">Terminal Scripts</strong>
+<br><br>
+<img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/3840px-Bash_Logo_Colored.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+<img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Gnu-nano.svg/1280px-Gnu-nano.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
+</td>
+</tr>
+<tr>
+<td width="25%" align="center" valign="top" style="border:1px solid #D1D5DB; border-radius:8px; padding:12px;">
+<strong style="color:#18A34A;">Tools</strong>
+<br><br>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/960px-Visual_Studio_Icon_2019.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" />
+<img width="30" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+<img width="30" src="https://developer.apple.com/assets/elements/icons/xcode-s/xcode-s-96x96_2x.png" />
+<img width="30" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" />
+</td>
+<td width="25%" align="center" valign="top" style="border:1px solid #D1D5DB; border-radius:8px; padding:12px;">
+<strong style="color:#18A34A;">Game Development</strong>
+<br><br>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+<img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/3840px-Godot_icon.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
+<img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/1280px-Logo_Aseprite.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
+<img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/960px-Adobe_Photoshop_CC_icon.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
+<img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/3840px-Adobe_Illustrator_CC_icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" />
+<img width="30" src="https://lmms.io/img/logo_lg.png" />
+</td>
+<td width="25%"></td>
+<td width="25%"></td>
+</tr>
+</table>
 
 <h3 align="left" style="color:#18A34A;">🚃 Recent Projects</h3>
 
@@ -291,43 +267,40 @@
   <strong>WOS in "MORFEO" (2023)</strong>
 
 
-<h3 align="left" style="color:#18A34A;"> 🏕️Organizations & Communities </h3>
+<h3 align="left" style="color:#18A34A;">🏕️ Communities</h3>
 
-<div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:20px;">
-
-  <div style="text-align:center;">
-    <img width="50" src="./assets/algorithmics.png" alt="Algorithmics">
-    <br>
-    <strong>Algorithmics</strong>
-    <br>
-    <small>Programming Instructor</small>
-  </div>
-
-  <div style="text-align:center;">
-    <img width="50" src="./assets/semillas.jpeg" alt="Semillas del Futuro">
-    <br>
-    <strong>Semillas del Futuro</strong>
-    <br>
-    <small>International Student Success Coordinator</small>
-  </div>
-
-  <div style="text-align:center;">
-    <img width="50" src="./assets/afif.jpg" alt="AFIF">
-    <br>
-    <strong>AFIF</strong>
-    <br>
-    <small>General Coordinator</small>
-  </div>
-
-  <div style="text-align:center;">
-    <img width="50" src="./assets/edusa.jpeg" alt="EducationUSA">
-    <br>
-    <strong>EducationUSA</strong>
-    <br>
-    <small>Opportunity Funds Scholar</small>
-  </div>
-
-</div>
+<table width="100%" cellspacing="10" cellpadding="0" border="0">
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <img width="50" src="./assets/algorithmics.png" alt="Algorithmics">
+      <br>
+      <strong>Algorithmics</strong>
+      <br>
+      <small>Programming Instructor</small>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <img width="50" src="./assets/semillas.jpeg" alt="Semillas del Futuro">
+      <br>
+      <strong>Semillas del Futuro</strong>
+      <br>
+      <small>International Student Success Coordinator</small>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <img width="50" src="./assets/afif.jpg" alt="AFIF">
+      <br>
+      <strong>AFIF</strong>
+      <br>
+      <small>General Coordinator</small>
+    </td>
+    <td width="25%" align="center" valign="top">
+      <img width="50" src="./assets/edusa.jpeg" alt="EducationUSA">
+      <br>
+      <strong>EducationUSA</strong>
+      <br>
+      <small>Opportunity Funds Scholar</small>
+    </td>
+  </tr>
+</table>
 
 <br>
 <div align="Center">
