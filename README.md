@@ -301,9 +301,7 @@
     </td>
   </tr>
 </table>
-
-![](https://komarev.com/ghpvc/?username=Chavaquiroz&color=green&label=Thanks+for+visiting)
-
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Chavaquiroz.Chavaquiroz" alt="Visitor count" />
 <br>
 <div align="center" style="color: #888; font-size: 13px; padding: 20px 0;"> © 2026 Salvador Quiroz Gaytán :) · All rights reserved. 🦖</div>
 </div>
