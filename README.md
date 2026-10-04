@@ -302,8 +302,6 @@
   </tr>
 </table>
 <br>
-<div align="center">
 ![](https://komarev.com/ghpvc/?username=Chavaquiroz&color=green&label=Thanks+for+visiting!)
-</div>
 <br>
 <div align="center" style="color: #888; font-size: 13px; padding: 20px 0;"> © 2026 Salvador Quiroz Gaytán :) · All rights reserved. 🦖</div>
