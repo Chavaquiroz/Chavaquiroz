@@ -140,7 +140,7 @@
 <td width="25%" align="center" valign="top" style="border:1px solid #D1D5DB; border-radius:8px; padding:12px;">
 <strong style="color:#18A34A;">System, Networking &amp; Deployment</strong>
 <br><br>
-<img width="30" src="https://d2908q01vomqb2.cloudfront.net/22d200f8670dbdb3e253a90eee5098477c95c23d/2023/02/16/aws_bp_primarylogo_01.png" />
+<img width="30" src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=thumbnail" />
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 <img width="30" src="https://www.svgrepo.com/show/353564/cloudflare.svg" />
