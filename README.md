@@ -140,7 +140,7 @@
 <td width="25%" align="center" valign="top" style="border:1px solid #D1D5DB; border-radius:8px; padding:12px;">
 <strong style="color:#18A34A;">System, Networking &amp; Deployment</strong>
 <br><br>
-<img width="30" src="https://static.freepnglogo.com/images/all_img/1726309795amazon-web-services-logo-png.png" />
+<img width="30" src="https://1000marcas.net/wp-content/uploads/2025/03/Amazon-Web-Services-Emblem.png" />
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 <img width="30" src="https://www.svgrepo.com/show/353564/cloudflare.svg" />
